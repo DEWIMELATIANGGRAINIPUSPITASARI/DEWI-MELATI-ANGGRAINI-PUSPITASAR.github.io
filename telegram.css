@@ -1,0 +1,257 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__1 {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 1;
+	--web-view-id: Web_1920__1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Group_1 {
+	position: absolute;
+	width: 1920px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_1 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 133px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Text {
+	left: 90px;
+	top: 157px;
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 66px;
+	color: rgba(0,0,0,1);
+}
+#DAPUR_MAMA {
+	left: 130px;
+	top: 25px;
+	position: absolute;
+	overflow: visible;
+	width: 464px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Segoe UI Variable Text;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 66px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#Dapur_Mama {
+	left: 648px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 274px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+#Track_Order {
+	left: 958px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+#Login {
+	left: 1658px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+#Home {
+	left: 1270px;
+	top: 41px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(255,4,4,1);
+}
+#Promo {
+	left: 1461px;
+	top: 37px;
+	position: absolute;
+	overflow: visible;
+	width: 131px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Poor Richard;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 55px;
+	color: rgba(0,0,0,1);
+}
+#Image_1 {
+	opacity: 0.61;
+	position: absolute;
+	width: 1920px;
+	height: 1280px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Sekali_di_gigit_lumernya_nagih {
+	left: 75px;
+	top: 466px;
+	position: absolute;
+	overflow: visible;
+	width: 946px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Garamond Pro;
+	font-style: italic;
+	font-weight: normal;
+	font-size: 60px;
+	color: rgba(65,60,14,1);
+}
+#n_ {
+	left: 743px;
+	top: 252px;
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Garamond Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(65,60,14,1);
+}
+#OLEH_-_OLEH_KHAS_LAMONGAN {
+	left: 90px;
+	top: 678px;
+	position: absolute;
+	overflow: visible;
+	width: 916px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Garamond Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 60px;
+	color: rgba(65,60,14,1);
+}
+#Rectangle_1 {
+	filter: blur(30px);
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_1 {
+	position: absolute;
+	overflow: visible;
+	width: 456px;
+	height: 136px;
+	left: 75px;
+	top: 803px;
+}
+#Order_Now {
+	left: 134px;
+	top: 846px;
+	position: absolute;
+	overflow: visible;
+	width: 340px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Caslon Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 50px;
+	color: rgba(255,9,26,1);
+	text-transform: uppercase;
+}
+#logo_dapur_roti-removebg-previ {
+	position: absolute;
+	width: 76px;
+	height: 84px;
+	left: 37px;
+	top: 26px;
+	overflow: visible;
+}
+#DAPUR_MAMA_w {
+	left: 75px;
+	top: 357px;
+	position: absolute;
+	overflow: visible;
+	width: 555px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Adobe Garamond Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 82px;
+	color: rgba(65,60,14,1);
+}
